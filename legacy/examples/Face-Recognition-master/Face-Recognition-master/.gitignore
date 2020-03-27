@@ -1,0 +1,6 @@
+.DS_Store
+trainer/*
+dataset/*
+
+all/
+*.jpg
